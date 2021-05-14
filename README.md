@@ -1,3 +1,6 @@
+#Hi ! I'm <a href="https://andy-cinquin.fr/">Andy</a> ! 
+
+
 Enthusiastic, curious, patient and understanding Freelance Developer.  
 I have a keen interest in a lot of different code languages and technologies related to the computing / informatic field. I can demonstrate an interesting flexibility as well as a will to learn new things, which led me to some knowledge as well as Back-End or Front-end side , design, UI, UX, SEO, motion design…  
 With or without framework, on the technology you want, I totally adjust myself to your needs.   
@@ -15,3 +18,6 @@ Don’t hesitate to get in touch with me for more information and answers to all
   
   
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=CinquinAndy&include_all_commits=true&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+  
+  
+###[link socials medias in comming]
