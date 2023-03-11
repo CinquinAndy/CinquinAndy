@@ -1,5 +1,10 @@
 # Hi ! I'm <a href="https://andy-cinquin.fr/">Andy</a> ! 
 
+Entrepreneur, Freelance Developer, 
+Co-founder of ForMenu & Artriste. 
+CEO of My-Makeup.
+ 
+I'm also studying computer engineering at EPSI, and working as a developer at Infotel.
 
 Enthusiastic, curious, patient and understanding French Freelance Developer.  
 I have a keen interest in a lot of different code languages and technologies related to the computing / informatic field. I can demonstrate an interesting flexibility as well as a will to learn new things, which led me to some knowledge as well as Back-End or Front-end side , design, UI, UX, SEO, motion design…  
