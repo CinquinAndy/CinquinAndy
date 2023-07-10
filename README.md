@@ -1,8 +1,10 @@
 # Hi ! I'm <a href="https://andy-cinquin.fr/">Andy</a> ! 
 
 Entrepreneur, Freelance Developer, 
-Co-founder of ForMenu & Artriste. 
+Co-founder of ForHives, ForMenu & Artriste. 
 CEO of My-Makeup.
+
+Check our Organization : ![ForHives](https://github.com/For-Hives)
  
 I'm also studying computer engineering at EPSI, and working as a developer at Infotel.
 
