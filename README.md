@@ -80,7 +80,8 @@ Don’t hesitate to get in touch with me for more information and answers to all
 
 <br/>
 
-## 📈 My Wakatime Stats  
+<details> 
+  <summary><h2>📈 My Wakatime Stats </h2></summary>
 
 <br/>
 
@@ -89,3 +90,4 @@ Don’t hesitate to get in touch with me for more information and answers to all
 </p>
 
 <br/>
+</details>
