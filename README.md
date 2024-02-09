@@ -45,8 +45,8 @@ Don’t hesitate to get in touch with me for more information and answers to all
 <br/>
 
 <p align="center">
-  <img alt="CinquinAndy's streak" src="https://github-readme-streak-stats-eight-orpin.vercel.app/?user=CinquinAndy&theme=transparent&hide_border=true"/>
   <img alt="CinquinAndy's Github Stats" src="https://my-github-readme-stats-eosin.vercel.app/api/?username=CinquinAndy&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&hide_border=true" />
+  <img alt="CinquinAndy's streak" src="https://github-readme-streak-stats-eight-orpin.vercel.app/?user=CinquinAndy&theme=transparent&hide_border=true"/>
 </p>
 
 <br/>
