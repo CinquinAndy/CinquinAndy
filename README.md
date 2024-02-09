@@ -1,3 +1,5 @@
+( ✨ Currently looking for a job for late 2024 - early 2025 ✨) 
+
 # Hi ! I'm <a href="https://andy-cinquin.fr/">Andy</a> ! 
 
 Entrepreneur, Freelance Developer, 
