@@ -27,11 +27,11 @@
 
 <br/>
 
-<img alt="Holo card" src="https://andy-cinquin.fr/assets/card_holo/holo.webp" width="375" align="right"> 
-
 ## 💻 About me
 
 <br/>
+
+<img alt="Holo card" src="https://andy-cinquin.fr/assets/card_holo/holo.webp" width="300" align="right"> 
 
 Entrepreneur, Freelance Developer, 
 Co-founder of ForHives, ForMenu, My-Makeup & Artriste. 
