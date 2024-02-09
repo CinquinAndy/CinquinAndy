@@ -31,6 +31,8 @@
 
 ## 💻 About me
 
+<br/>
+
 Entrepreneur, Freelance Developer, 
 Co-founder of ForHives, ForMenu, My-Makeup & Artriste. 
 
@@ -48,14 +50,13 @@ Don’t hesitate to get in touch with me for more information and answers to all
 <br/>
 
 ## 📈 My GitHub Stats  
-<p>
-
-  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="CinquinAndy's streak" src="https://github-readme-streak-stats-eight-orpin.vercel.app/?user=CinquinAndy&theme=midnight-purple&hide_border=true"/>
 
 <br/>
 
-<a href="https://my-github-readme-stats-eosin.vercel.app"><img alt="CinquinAndy's Github Stats" src="https://my-github-readme-stats-eosin.vercel.app/api/?username=CinquinAndy&show_icons=true&include_all_commits=true&count_private=true&theme=midnight-purple&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-<a href="https://my-github-readme-stats-eosin.vercel.app"><img alt="CinquinAndy's Top Languages" src="https://my-github-readme-stats-eosin.vercel.app/api/top-langs/?username=CinquinAndy&langs_count=8&layout=compact&theme=midnight-purple&hide_border=true&hide=Roff" height="192px"/></a>
+<p align="center">
+  <img alt="CinquinAndy's streak" src="https://github-readme-streak-stats-eight-orpin.vercel.app/?user=CinquinAndy&theme=transparent&hide_border=true"/>
+  <img alt="CinquinAndy's Github Stats" src="https://my-github-readme-stats-eosin.vercel.app/api/?username=CinquinAndy&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&hide_border=true" />
+</p>
 
 <br/>
 
@@ -64,24 +65,36 @@ Don’t hesitate to get in touch with me for more information and answers to all
 <br/>
 
 <p align="center">
-     <a href="https://github.com/For-Hives/my-makeup"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=For-Hives&repo=my-makeup&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="my-makeup"></a>
-     <a href="https://github.com/For-Hives/api-my-makeup"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=For-Hives&repo=api-my-makeup&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="api-my-makeup"></a>
- <a href="https://github.com/For-Hives/formenu-front"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=For-Hives&repo=formenu-front&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="formenu-front"></a>
-    <a href="https://github.com/For-Hives/admin-formenu"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=For-Hives&repo=admin-formenu&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="admin-formenu"></a>
-    <a href="https://github.com/For-Hives/formenu"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=For-Hives&repo=formenu&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="formenu"></a>
-    <a href="https://github.com/For-Hives/api-formenu"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=For-Hives&repo=api-formenu&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="api-formenu"></a>
-    <a href="https://github.com/CinquinAndy/api-PortefolioV6"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=CinquinAndy&repo=api-PortefolioV6&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="api-PortefolioV6"></a>
-    <a href="https://github.com/CinquinAndy/PortefolioV6"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=CinquinAndy&repo=PortefolioV6&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="PortefolioV6"></a>
-    <a href="https://github.com/CinquinAndy/MaevaSiteV2"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=CinquinAndy&repo=MaevaSiteV2&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="MaevaSiteV2"></a>
-     <a href="https://github.com/For-Hives/forhives-base"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=For-Hives&repo=forhives-base&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="forhives-base"></a>
-<a href="https://github.com/CinquinAndy/mariage-mae"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=CinquinAndy&repo=mariage-mae&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="mariage-mae"></a>
- <a href="https://github.com/For-Hives/artriste-website"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=For-Hives&repo=artriste-website&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="artriste-website"></a>
-    <a href="https://github.com/CinquinAndy/Website-SecondBrain"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=CinquinAndy&repo=Website-SecondBrain&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Website-SecondBrain"></a>
-    <a href="https://github.com/CinquinAndy/LesYDRangeesV2"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=CinquinAndy&repo=LesYDRangeesV2&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="LesYDRangeesV2"></a>
-    <a href="https://github.com/CinquinAndy/sitePortefolioJulieSommaro"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=CinquinAndy&repo=sitePortefolioJulieSommaro&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="sitePortefolioJulieSommaro"></a>
-    <a href="https://github.com/CinquinAndy/IsabelleCinquin"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=CinquinAndy&repo=IsabelleCinquin&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="IsabelleCinquin"></a>
-    <a href="https://github.com/CinquinAndy/color_palette_generator"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=CinquinAndy&repo=color_palette_generator&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="color_palette_generator"></a>
-    <a href="https://github.com/CinquinAndy/Infotel-Safari-Metiers"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=CinquinAndy&repo=Infotel-Safari-Metiers&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Infotel-Safari-Metiers"></a>
-    <a href="https://github.com/CinquinAndy/Courses-group-generator"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=CinquinAndy&repo=Courses-group-generator&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Courses-group-generator"></a>
-    <a href="https://github.com/For-Hives/Obsidian-Wiki-ForHives"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=For-Hives&repo=Obsidian-Wiki-ForHives&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Obsidian-Wiki-ForHives"></a>
- </p>
+  <a href="https://github.com/For-Hives/my-makeup"><img width="278" src="https://my-github-readme-stats-eosin.vercel.app/api/pin/?username=For-Hives&repo=my-makeup&theme=transparent&show_icons=false" alt="my-makeup"></a>
+  <a href="https://github.com/For-Hives/api-my-makeup"><img width="278" src="https://my-github-readme-stats-eosin.vercel.app/api/pin/?username=For-Hives&repo=api-my-makeup&theme=transparent&show_icons=false" alt="api-my-makeup"></a>
+  <a href="https://github.com/For-Hives/formenu-front"><img width="278" src="https://my-github-readme-stats-eosin.vercel.app/api/pin/?username=For-Hives&repo=formenu-front&theme=transparent&show_icons=false" alt="formenu-front"></a>
+  <a href="https://github.com/For-Hives/admin-formenu"><img width="278" src="https://my-github-readme-stats-eosin.vercel.app/api/pin/?username=For-Hives&repo=admin-formenu&theme=transparent&show_icons=false" alt="admin-formenu"></a>
+  <a href="https://github.com/For-Hives/formenu"><img width="278" src="https://my-github-readme-stats-eosin.vercel.app/api/pin/?username=For-Hives&repo=formenu&theme=transparent&show_icons=false" alt="formenu"></a>
+  <a href="https://github.com/For-Hives/api-formenu"><img width="278" src="https://my-github-readme-stats-eosin.vercel.app/api/pin/?username=For-Hives&repo=api-formenu&theme=transparent&show_icons=false" alt="api-formenu"></a>
+  <a href="https://github.com/CinquinAndy/api-PortefolioV6"><img width="278" src="https://my-github-readme-stats-eosin.vercel.app/api/pin/?username=CinquinAndy&repo=api-PortefolioV6&theme=transparent&show_icons=false" alt="api-PortefolioV6"></a>
+  <a href="https://github.com/CinquinAndy/PortefolioV6"><img width="278" src="https://my-github-readme-stats-eosin.vercel.app/api/pin/?username=CinquinAndy&repo=PortefolioV6&theme=transparent&show_icons=false" alt="PortefolioV6"></a>
+  <a href="https://github.com/CinquinAndy/MaevaSiteV2"><img width="278" src="https://my-github-readme-stats-eosin.vercel.app/api/pin/?username=CinquinAndy&repo=MaevaSiteV2&theme=transparent&show_icons=false" alt="MaevaSiteV2"></a>
+  <a href="https://github.com/For-Hives/forhives-base"><img width="278" src="https://my-github-readme-stats-eosin.vercel.app/api/pin/?username=For-Hives&repo=forhives-base&theme=transparent&show_icons=false" alt="forhives-base"></a>
+  <a href="https://github.com/CinquinAndy/mariage-mae"><img width="278" src="https://my-github-readme-stats-eosin.vercel.app/api/pin/?username=CinquinAndy&repo=mariage-mae&theme=transparent&show_icons=false" alt="mariage-mae"></a>
+  <a href="https://github.com/For-Hives/artriste-website"><img width="278" src="https://my-github-readme-stats-eosin.vercel.app/api/pin/?username=For-Hives&repo=artriste-website&theme=transparent&show_icons=false" alt="artriste-website"></a>
+  <a href="https://github.com/CinquinAndy/Website-SecondBrain"><img width="278" src="https://my-github-readme-stats-eosin.vercel.app/api/pin/?username=CinquinAndy&repo=Website-SecondBrain&theme=transparent&show_icons=false" alt="Website-SecondBrain"></a>
+  <a href="https://github.com/CinquinAndy/LesYDRangeesV2"><img width="278" src="https://my-github-readme-stats-eosin.vercel.app/api/pin/?username=CinquinAndy&repo=LesYDRangeesV2&theme=transparent&show_icons=false" alt="LesYDRangeesV2"></a>
+  <a href="https://github.com/CinquinAndy/sitePortefolioJulieSommaro"><img width="278" src="https://my-github-readme-stats-eosin.vercel.app/api/pin/?username=CinquinAndy&repo=sitePortefolioJulieSommaro&theme=transparent&show_icons=false" alt="sitePortefolioJulieSommaro"></a>
+  <a href="https://github.com/CinquinAndy/IsabelleCinquin"><img width="278" src="https://my-github-readme-stats-eosin.vercel.app/api/pin/?username=CinquinAndy&repo=IsabelleCinquin&theme=transparent&show_icons=false" alt="IsabelleCinquin"></a>
+  <a href="https://github.com/CinquinAndy/color_palette_generator"><img width="278" src="https://my-github-readme-stats-eosin.vercel.app/api/pin/?username=CinquinAndy&repo=color_palette_generator&theme=transparent&show_icons=false" alt="color_palette_generator"></a>
+  <a href="https://github.com/CinquinAndy/Infotel-Safari-Metiers"><img width="278" src="https://my-github-readme-stats-eosin.vercel.app/api/pin/?username=CinquinAndy&repo=Infotel-Safari-Metiers&theme=transparent&show_icons=false" alt="Infotel-Safari-Metiers"></a>
+  <a href="https://github.com/CinquinAndy/Courses-group-generator"><img width="278" src="https://my-github-readme-stats-eosin.vercel.app/api/pin/?username=CinquinAndy&repo=Courses-group-generator&theme=transparent&show_icons=false" alt="Courses-group-generator"></a>
+  <a href="https://github.com/For-Hives/Obsidian-Wiki-ForHives"><img width="278" src="https://my-github-readme-stats-eosin.vercel.app/api/pin/?username=For-Hives&repo=Obsidian-Wiki-ForHives&theme=transparent&show_icons=false" alt="Obsidian-Wiki-ForHives"></a>
+</p>
+
+<br/>
+
+## 📈 My Wakatime Stats  
+
+<br/>
+
+<p align="center">
+ <img alt="CinquinAndy's Wakatime" src="https://my-github-readme-stats-eosin.vercel.app/api/wakatime?username=@andycinquin&theme=transparent&layout=compact"/>
+</p>
+
+<br/>
