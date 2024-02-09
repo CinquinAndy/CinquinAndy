@@ -32,8 +32,7 @@
 ## 💻 About me
 
 Entrepreneur, Freelance Developer, 
-Co-founder of ForHives, ForMenu & Artriste. 
-CEO of My-Makeup.
+Co-founder of ForHives, ForMenu, My-Makeup & Artriste. 
 
 Check our Organization : [ForHives](https://github.com/For-Hives)
 
