@@ -48,7 +48,14 @@ Don’t hesitate to get in touch with me for more information and answers to all
 <br/>
 
 ## 📈 My GitHub Stats  
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=CinquinAndy&include_all_commits=true&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats) 
+<p>
+
+  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="CinquinAndy's streak" src="https://github-readme-streak-stats-eight-orpin.vercel.app/?user=CinquinAndy&theme=midnight-purple&hide_border=true"/>
+
+<br/>
+
+<a href="https://my-github-readme-stats-eosin.vercel.app"><img alt="CinquinAndy's Github Stats" src="https://my-github-readme-stats-eosin.vercel.app/api/?username=CinquinAndy&show_icons=true&include_all_commits=true&count_private=true&theme=midnight-purple&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+<a href="https://my-github-readme-stats-eosin.vercel.app"><img alt="CinquinAndy's Top Languages" src="https://my-github-readme-stats-eosin.vercel.app/api/top-langs/?username=CinquinAndy&langs_count=8&layout=compact&theme=midnight-purple&hide_border=true&hide=Roff" height="192px"/></a>
 
 <br/>
 
