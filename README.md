@@ -1,9 +1,10 @@
 ( ✨ Currently looking for a job for late 2024 - early 2025 ✨) 
 
 # Hi ! I'm <a href="https://andy-cinquin.fr/">Andy</a> ! 
+<img alt="Holo card" src="https://minio.beta.andy-cinquin.fr:443/andycinquin/Capture_d_ecran_2024_02_09_094947_df22bea553.png"> 
 
+## 💻 About me
 <br/>
-
 <p align="center">
  <a href="https://www.linkedin.com/in/andy-cinquin/">
     <img alt="My linkedin" title="My linkedin" src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" height="30"/></a>
@@ -20,17 +21,7 @@
   <a href="https://www.facebook.com/andy.cinquin/">
     <img alt="My Facebook'" title="My Facebook'" src="https://img.shields.io/badge/-Facebook-0866FF?style=flat-square&logo=Facebook&logoColor=white" height="30"/></a>
 </p>
-
 <br/>
-
-<img alt="Holo card" src="https://minio.beta.andy-cinquin.fr:443/andycinquin/Capture_d_ecran_2024_02_09_094947_df22bea553.png"> 
-
-<br/>
-
-## 💻 About me
-
-<br/>
-
 <img alt="Holo card" src="https://andy-cinquin.fr/assets/card_holo/holo.webp" width="300" align="right"> 
 
 Entrepreneur, Freelance Developer, 
