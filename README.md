@@ -1,7 +1,7 @@
 ( ✨ Currently looking for a job for late 2024 - early 2025 ✨) 
 
 # Hi ! I'm <a href="https://andy-cinquin.fr/">Andy</a> ! 
-<img alt="bg" src="https://minio.beta.andy-cinquin.fr:443/andycinquin/Capture_d_ecran_2024_02_09_094947_df22bea553.png"> 
+<img alt="bg" src="https://minio.beta.andy-cinquin.fr:443/andycinquin/Capture_d_ecran_2024_03_09_203547_0fe605e8a0.png"> 
 
 ## 💻 About me
 <br/>
