@@ -56,6 +56,7 @@ Don’t hesitate to get in touch with me for more information and answers to all
 <br/>
 
 <p align="center">
+  <a href="https://github.com/CinquinAndy/notes-to-strapi-export-article-ai"><img width="278" src="https://my-github-readme-stats-eosin.vercel.app/api/pin/?username=CinquinAndy&repo=notes-to-strapi-export-article-ai&theme=transparent&show_icons=false" alt="notes-to-strapi-export-article-ai"></a>
   <a href="https://github.com/For-Hives/my-makeup"><img width="278" src="https://my-github-readme-stats-eosin.vercel.app/api/pin/?username=For-Hives&repo=my-makeup&theme=transparent&show_icons=false" alt="my-makeup"></a>
   <a href="https://github.com/For-Hives/api-my-makeup"><img width="278" src="https://my-github-readme-stats-eosin.vercel.app/api/pin/?username=For-Hives&repo=api-my-makeup&theme=transparent&show_icons=false" alt="api-my-makeup"></a>
   <a href="https://github.com/For-Hives/formenu-front"><img width="278" src="https://my-github-readme-stats-eosin.vercel.app/api/pin/?username=For-Hives&repo=formenu-front&theme=transparent&show_icons=false" alt="formenu-front"></a>
@@ -69,6 +70,7 @@ Don’t hesitate to get in touch with me for more information and answers to all
   <a href="https://github.com/CinquinAndy/mariage-mae"><img width="278" src="https://my-github-readme-stats-eosin.vercel.app/api/pin/?username=CinquinAndy&repo=mariage-mae&theme=transparent&show_icons=false" alt="mariage-mae"></a>
   <a href="https://github.com/For-Hives/artriste-website"><img width="278" src="https://my-github-readme-stats-eosin.vercel.app/api/pin/?username=For-Hives&repo=artriste-website&theme=transparent&show_icons=false" alt="artriste-website"></a>
   <a href="https://github.com/CinquinAndy/Website-SecondBrain"><img width="278" src="https://my-github-readme-stats-eosin.vercel.app/api/pin/?username=CinquinAndy&repo=Website-SecondBrain&theme=transparent&show_icons=false" alt="Website-SecondBrain"></a>
+  <a href="https://github.com/CinquinAndy/export-repository-to-prompt-for-llm"><img width="278" src="https://my-github-readme-stats-eosin.vercel.app/api/pin/?username=CinquinAndy&repo=export-repository-to-prompt-for-llm&theme=transparent&show_icons=false" alt="export-repository-to-prompt-for-llm"></a>
   <a href="https://github.com/CinquinAndy/LesYDRangeesV2"><img width="278" src="https://my-github-readme-stats-eosin.vercel.app/api/pin/?username=CinquinAndy&repo=LesYDRangeesV2&theme=transparent&show_icons=false" alt="LesYDRangeesV2"></a>
   <a href="https://github.com/CinquinAndy/sitePortefolioJulieSommaro"><img width="278" src="https://my-github-readme-stats-eosin.vercel.app/api/pin/?username=CinquinAndy&repo=sitePortefolioJulieSommaro&theme=transparent&show_icons=false" alt="sitePortefolioJulieSommaro"></a>
   <a href="https://github.com/CinquinAndy/IsabelleCinquin"><img width="278" src="https://my-github-readme-stats-eosin.vercel.app/api/pin/?username=CinquinAndy&repo=IsabelleCinquin&theme=transparent&show_icons=false" alt="IsabelleCinquin"></a>
