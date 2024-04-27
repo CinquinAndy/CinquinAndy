@@ -24,7 +24,6 @@
     <img alt="My Facebook'" title="My Facebook'" src="https://img.shields.io/badge/-Facebook-0866FF?style=flat-square&logo=Facebook&logoColor=white" height="30"/></a>
 </p>
 <br/>
-<img alt="Holo cards" src="https://andy-cinquin.fr/assets/card_holo/holo.webp" width="300" align="right"> 
 
 Entrepreneur, Freelance Developer,
 Co-founder of ForHives, ForMenu, My-Makeup & Artriste.
