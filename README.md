@@ -69,6 +69,12 @@ Don’t hesitate to get in touch with me for more information and answers to all
 </p>
 
 ### ✨ ForHives
+#### _Others_
+<p align="center">
+    <a href="https://github.com/For-Hives/Forvoyez"><img width="278" src="https://my-github-readme-stats-eosin.vercel.app/api/pin/?username=For-Hives&repo=forvoyez&theme=transparent&show_icons=false" alt="forvoyez"></a>
+    <a href="https://github.com/For-Hives/Forvoyez-doc"><img width="278" src="https://my-github-readme-stats-eosin.vercel.app/api/pin/?username=For-Hives&repo=forvoyez-doc&theme=transparent&show_icons=false" alt="forvoyez-doc"></a>
+</p> 
+
 #### _ForMenu_
 <p align="center">
     <a href="https://github.com/For-Hives/formenu-front"><img width="278" src="https://my-github-readme-stats-eosin.vercel.app/api/pin/?username=For-Hives&repo=formenu-front&theme=transparent&show_icons=false" alt="formenu-front"></a>
