@@ -2,7 +2,7 @@
 
 # Hi ! I'm <a href="https://andy-cinquin.fr/">Andy</a> !
 
-<img alt="bg" src="https://minio.beta.andy-cinquin.fr:443/andycinquin/Capture_d_ecran_2024_03_09_203547_0fe605e8a0.png"> 
+<img alt="bg" src="https://r2-andycinquin.andy-cinquin.fr/img_1_2d7d67af96.png"> 
 
 ## 💻 About me
 
