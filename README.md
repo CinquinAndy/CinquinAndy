@@ -1,4 +1,4 @@
-( ✨ Currently looking for a job for late 2024 - early 2025 ✨)
+( ✨ Currently looking for a job for late 2024 ✨)
 
 # Hi ! I'm <a href="https://andy-cinquin.fr/">Andy</a> !
 
@@ -28,7 +28,7 @@
 
 
 Entrepreneur, Freelance Developer,
-Co-founder of ForHives, ForMenu, My-Makeup & Artriste.
+Co-founder of ForVoyez, ForHives, ForMenu, My-Makeup & Artriste.
 
 Check our Organization : [ForHives](https://github.com/For-Hives)
 
