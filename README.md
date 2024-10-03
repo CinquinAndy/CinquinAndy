@@ -30,7 +30,7 @@ Co-founder of ForVoyez, ForHives, ForMenu, My-Makeup & Artriste.
 
 Check our Organization : [ForHives](https://github.com/For-Hives)
 
-- I'm currently working for @wildlifela, one of America's best web agencies. (🥰🤩)
+- I'm currently working for [@wildlifela](https://github.com/wildlifela), one of America's best web agencies. (🥰🤩)
 
 Enthusiastic, curious, patient and understanding French Freelance Developer.  
 I have a keen interest in a lot of different code languages and technologies related to the computing / informatic field. I can demonstrate an interesting flexibility as well as a
