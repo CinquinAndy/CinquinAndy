@@ -7,7 +7,7 @@
 <br/>
 <p align="center">
  <a href="https://www.linkedin.com/in/andy-cinquin/">
-    <img alt="My linkedin" title="My linkedin" src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" height="30"/></a>
+    <img alt="My linkedin" title="My linkedin" src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=LinkedIn&logoColor=white" height="30"/></a>
 
  <a href="https://www.instagram.com/cinquin.andy/">
     <img alt="My Insta'" title="My Insta'" src="https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white" height="30"/></a>
@@ -25,23 +25,22 @@
 <img alt="Holo cards" src="https://andy-cinquin.fr/assets/card_holo/holo.webp" width="300" align="right"> 
 
 
-I'm currently working for [@wildlifela](https://github.com/wildlifela), one of America's best web agencies. (🥰🤩)  
+I'm currently working for [@wildlifela](https://github.com/wildlifela), one of America's best web agencies. (🌴 🥰 🤩)
 
-Entrepreneur, Freelance Developer,
+Entrepreneur, Freelance Developer, I've been creating cool stuff on the web for over 6 years.
 Co-founder of ForVoyez, ForHives, ForMenu, My-Makeup & Artriste.
 
 Check our Organization : [ForHives](https://github.com/For-Hives)
 
-Enthusiastic, curious, patient and understanding French Freelance Developer.  
-I have a keen interest in a lot of different code languages and technologies related to the computing / informatic field. I can demonstrate an interesting flexibility as well as a
-will to learn new things, which led me to some knowledge as well as Back-End or Front-end side , design, UI, UX, SEO, motion design…  
+What really gets me excited? Bringing ideas to life that solve real problems. I'm also a huge open source enthusiast! I've developed plugins for Strapi and Obsidian, and I regularly contribute to various projects on GitHub. It's my way of giving back to the community that has given me so much. 💪
+
+In this field, I particularly love that feeling of creating something new every day. From design to code, through UX and motion design, I have a blast exploring all facets of web development. I can demonstrate an interesting flexibility as well as a will to learn new things, which led me to knowledge in both Back-End and Front-end, design, UI, UX, SEO, motion design...  
 With or without framework, on the technology you want, I totally adjust myself to your needs.
 
-I’m attentive to your needs and, thanks to my hard-working and responsible mind, I can suggest you the most fitting solutions. Moreover, my patience and my passion for my job will
-lead us to pleasing and lasting terms.   
-You can rely on me for your project(s) and I remain at your disposal for all kind of opportunities !
+Over the years, I've had the opportunity to collaborate with all kinds of companies - from startups to large corporations. This diversity has taught me to adapt and always find the best approach for each project.
 
-Don’t hesitate to get in touch with me for more information and answers to all your questioning.
+Whether you have a specific idea or just an intuition, I'd love to discuss it. My goal? To make your project something unique that really stands out. ✨
+Want to create something together? Let's chat! 🚀
 
 <br/>
 
@@ -75,6 +74,13 @@ Don’t hesitate to get in touch with me for more information and answers to all
     <a href="https://github.com/For-Hives/Forvoyez-doc"><img width="278" src="https://my-github-readme-stats-eosin.vercel.app/api/pin/?username=For-Hives&repo=forvoyez-doc&theme=transparent&show_icons=false" alt="forvoyez-doc"></a>
 </p> 
 
+#### _ForVoyez Plugins_
+<p align="center">
+    <a href="https://andy-cinquin.com/portefolio/forvoyez-obsidian-plugin"><img width="278" src="https://my-github-readme-stats-eosin.vercel.app/api/pin/?username=For-Hives&repo=forvoyez-obsidian-plugin&theme=transparent&show_icons=false" alt="forvoyez-obsidian-plugin"></a>
+    <a href="https://andy-cinquin.com/portefolio/forvoyez-strapi-plugin"><img width="278" src="https://my-github-readme-stats-eosin.vercel.app/api/pin/?username=For-Hives&repo=forvoyez-strapi-plugin&theme=transparent&show_icons=false" alt="forvoyez-strapi-plugin"></a>
+    <a href="https://andy-cinquin.com/portefolio/forvoyez-wordpress-plugin"><img width="278" src="https://my-github-readme-stats-eosin.vercel.app/api/pin/?username=For-Hives&repo=forvoyez-wordpress-plugin&theme=transparent&show_icons=false" alt="forvoyez-wordpress-plugin"></a>
+</p>
+
 #### _ForMenu_
 <p align="center">
     <a href="https://github.com/For-Hives/formenu-front"><img width="278" src="https://my-github-readme-stats-eosin.vercel.app/api/pin/?username=For-Hives&repo=formenu-front&theme=transparent&show_icons=false" alt="formenu-front"></a>
@@ -104,6 +110,8 @@ Don’t hesitate to get in touch with me for more information and answers to all
 
 #### _Website_
 <p align="center">
+    <a href="https://github.com/For-Hives/la-taverne-des-aventuriers"><img width="278" src="https://my-github-readme-stats-eosin.vercel.app/api/pin/?username=For-Hives&repo=la-taverne-des-aventuriers&theme=transparent&show_icons=false" alt="la-taverne-des-aventuriers"></a>
+    <a href="https://andy-cinquin.com/portefolio/cosi-company"><img width="278" src="https://my-github-readme-stats-eosin.vercel.app/api/pin/?username=CinquinAndy&repo=cosi-company&theme=transparent&show_icons=false" alt="cosi-company"></a>
     <a href="https://github.com/CinquinAndy/mariage-mae"><img width="278" src="https://my-github-readme-stats-eosin.vercel.app/api/pin/?username=CinquinAndy&repo=mariage-mae&theme=transparent&show_icons=false" alt="mariage-mae"></a>
     <a href="https://github.com/CinquinAndy/MaevaSiteV2"><img width="278" src="https://my-github-readme-stats-eosin.vercel.app/api/pin/?username=CinquinAndy&repo=MaevaSiteV2&theme=transparent&show_icons=false" alt="MaevaSiteV2"></a>
     <a href="https://github.com/CinquinAndy/Website-SecondBrain"><img width="278" src="https://my-github-readme-stats-eosin.vercel.app/api/pin/?username=CinquinAndy&repo=Website-SecondBrain&theme=transparent&show_icons=false" alt="Website-SecondBrain"></a>
@@ -115,15 +123,22 @@ Don’t hesitate to get in touch with me for more information and answers to all
     <a href="https://github.com/CinquinAndy/Courses-group-generator"><img width="278" src="https://my-github-readme-stats-eosin.vercel.app/api/pin/?username=CinquinAndy&repo=Courses-group-generator&theme=transparent&show_icons=false" alt="Courses-group-generator"></a>
 </p>
 
-<br/>
+### ✨ Wildlife Projects
+
+- Article on my portfolio: [AWS Powered Portraits](https://andy-cinquin.com/portefolio/wildlife-aws-powered-portraits)
+- Article on my portfolio: [AWS Portrait Gallery](https://andy-cinquin.com/portefolio/wildlife-aws-portrait-gallery)
+- Article on my portfolio: [AWS Bartender Mixologist](https://andy-cinquin.com/portefolio/wildlife-aws-bartender-mixologist)
+- Article on my portfolio: [AWS NRF Retail](https://andy-cinquin.com/portefolio/wildlife-aws-nrf-retail)
+- Article on my portfolio: [AWS Sticker Generator](https://andy-cinquin.com/portefolio/wildlife-aws-sticker-generator)
+
 
 <details> 
-  <summary><h2>📈 My Wakatime Stats </h2></summary>
+<summary><h2>📈 My Wakatime Stats </h2></summary>
 <br/>
-
-<p align="center">
- <img alt="CinquinAndy's Wakatime" src="https://my-github-readme-stats-eosin.vercel.app/api/wakatime?username=@andycinquin&theme=transparent&layout=compact"/>
-</p>
-
-<br/>
+    
+    <p align="center">
+     <img alt="CinquinAndy's Wakatime" src="https://my-github-readme-stats-eosin.vercel.app/api/wakatime?username=@andycinquin&theme=transparent&layout=compact"/>
+    </p>
+    
+    <br/>
 </details>
