@@ -25,8 +25,6 @@
 <img alt="Holo cards" src="https://andy-cinquin.fr/assets/card_holo/holo.webp" width="300" align="right"> 
 
 
-I'm currently working for [@wildlifela](https://github.com/wildlifela), one of America's best web agencies. (🌴 🥰 🤩)
-
 Entrepreneur, Freelance Developer, I've been creating cool stuff on the web for over 6 years.
 Co-founder of ForVoyez, ForHives, ForMenu, My-Makeup & Artriste.
 
