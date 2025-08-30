@@ -25,7 +25,7 @@
 <img alt="Holo cards" src="https://andy-cinquin.fr/assets/card_holo/holo.webp" width="300" align="right"> 
 
 
-Entrepreneur, Freelance Developer, I've been creating cool stuff on the web for over 6 years.
+Entrepreneur, Freelance Developer, I've been creating cool stuff on the web for over 7 years.
 Co-founder of ForVoyez, ForHives, ForMenu, My-Makeup & Artriste.
 
 Check our Organization : [ForHives](https://github.com/For-Hives)
@@ -55,6 +55,9 @@ Want to create something together? Let's chat! 🚀
 
 ## ⭐ Main repos (actually in prod)
 
+- Actually CTO at @Neova-protocol: https://neova.io
+- Actually Co-Founder at @Beswib: https://beswib.com
+
 <br/>
 
 ### ✨ NPM packages
@@ -74,8 +77,8 @@ Want to create something together? Let's chat! 🚀
 
 #### _ForVoyez Plugins_
 <p align="center">
-    <a href="https://andy-cinquin.com/portefolio/forvoyez-obsidian-plugin"><img width="278" src="https://my-github-readme-stats-eosin.vercel.app/api/pin/?username=For-Hives&repo=forvoyez-obsidian-plugin&theme=transparent&show_icons=false" alt="forvoyez-obsidian-plugin"></a>
-    <a href="https://andy-cinquin.com/portefolio/forvoyez-strapi-plugin"><img width="278" src="https://my-github-readme-stats-eosin.vercel.app/api/pin/?username=For-Hives&repo=forvoyez-strapi-plugin&theme=transparent&show_icons=false" alt="forvoyez-strapi-plugin"></a>
+    <a href="https://andy-cinquin.com/portefolio/forvoyez-obsidian-plugin"><img width="278" src="https://my-github-readme-stats-eosin.vercel.app/api/pin/?username=For-Hives&repo=plugin-auto-alt-caption-title-on-images-ai-enhanced&theme=transparent&show_icons=false" alt="forvoyez-obsidian-plugin"></a>
+    <a href="https://andy-cinquin.com/portefolio/forvoyez-strapi-plugin"><img width="278" src="https://my-github-readme-stats-eosin.vercel.app/api/pin/?username=For-Hives&repo=notes-to-strapi-export-article-ai&theme=transparent&show_icons=false" alt="forvoyez-strapi-plugin"></a>
     <a href="https://andy-cinquin.com/portefolio/forvoyez-wordpress-plugin"><img width="278" src="https://my-github-readme-stats-eosin.vercel.app/api/pin/?username=For-Hives&repo=forvoyez-wordpress-plugin&theme=transparent&show_icons=false" alt="forvoyez-wordpress-plugin"></a>
 </p>
 
@@ -108,8 +111,8 @@ Want to create something together? Let's chat! 🚀
 
 #### _Website_
 <p align="center">
+    <a href="https://github.com/CinquinAndy/esperancem"><img width="278" src="https://my-github-readme-stats-eosin.vercel.app/api/pin/?username=For-Hives&repo=esperancem&theme=transparent&show_icons=false" alt="esperance-m"></a>
     <a href="https://github.com/For-Hives/la-taverne-des-aventuriers"><img width="278" src="https://my-github-readme-stats-eosin.vercel.app/api/pin/?username=For-Hives&repo=la-taverne-des-aventuriers&theme=transparent&show_icons=false" alt="la-taverne-des-aventuriers"></a>
-    <a href="https://andy-cinquin.com/portefolio/cosi-company"><img width="278" src="https://my-github-readme-stats-eosin.vercel.app/api/pin/?username=CinquinAndy&repo=cosi-company&theme=transparent&show_icons=false" alt="cosi-company"></a>
     <a href="https://github.com/CinquinAndy/mariage-mae"><img width="278" src="https://my-github-readme-stats-eosin.vercel.app/api/pin/?username=CinquinAndy&repo=mariage-mae&theme=transparent&show_icons=false" alt="mariage-mae"></a>
     <a href="https://github.com/CinquinAndy/MaevaSiteV2"><img width="278" src="https://my-github-readme-stats-eosin.vercel.app/api/pin/?username=CinquinAndy&repo=MaevaSiteV2&theme=transparent&show_icons=false" alt="MaevaSiteV2"></a>
     <a href="https://github.com/CinquinAndy/Website-SecondBrain"><img width="278" src="https://my-github-readme-stats-eosin.vercel.app/api/pin/?username=CinquinAndy&repo=Website-SecondBrain&theme=transparent&show_icons=false" alt="Website-SecondBrain"></a>
@@ -121,6 +124,8 @@ Want to create something together? Let's chat! 🚀
     <a href="https://github.com/CinquinAndy/Courses-group-generator"><img width="278" src="https://my-github-readme-stats-eosin.vercel.app/api/pin/?username=CinquinAndy&repo=Courses-group-generator&theme=transparent&show_icons=false" alt="Courses-group-generator"></a>
 </p>
 
+- *Cosi-company*: https://andy-cinquin.com/portefolio/cosi-company
+
 ### ✨ Wildlife Projects
 
 - Article on my portfolio: [AWS Powered Portraits](https://andy-cinquin.com/portefolio/wildlife-aws-powered-portraits)
@@ -128,6 +133,8 @@ Want to create something together? Let's chat! 🚀
 - Article on my portfolio: [AWS Bartender Mixologist](https://andy-cinquin.com/portefolio/wildlife-aws-bartender-mixologist)
 - Article on my portfolio: [AWS NRF Retail](https://andy-cinquin.com/portefolio/wildlife-aws-nrf-retail)
 - Article on my portfolio: [AWS Sticker Generator](https://andy-cinquin.com/portefolio/wildlife-aws-sticker-generator)
+- Article on my portfolio: [AWS Marketing Studio](https://andy-cinquin.com/portefolio/wildlife-aws-marketing-studio)
+- Article on my portfolio: [AWS F1 Realtime Racetrack](https://andy-cinquin.com/portefolio/wildlife-aws-realtime-racetrack-f1)
 
 
 <details> 
