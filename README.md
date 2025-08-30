@@ -77,8 +77,8 @@ Want to create something together? Let's chat! 🚀
 
 #### _ForVoyez Plugins_
 <p align="center">
-    <a href="https://andy-cinquin.com/portefolio/forvoyez-obsidian-plugin"><img width="278" src="https://my-github-readme-stats-eosin.vercel.app/api/pin/?username=For-Hives&repo=plugin-auto-alt-caption-title-on-images-ai-enhanced&theme=transparent&show_icons=false" alt="forvoyez-obsidian-plugin"></a>
-    <a href="https://andy-cinquin.com/portefolio/forvoyez-strapi-plugin"><img width="278" src="https://my-github-readme-stats-eosin.vercel.app/api/pin/?username=For-Hives&repo=notes-to-strapi-export-article-ai&theme=transparent&show_icons=false" alt="forvoyez-strapi-plugin"></a>
+    <a href="https://andy-cinquin.com/portefolio/forvoyez-obsidian-plugin"><img width="278" src="https://my-github-readme-stats-eosin.vercel.app/api/pin/?username=CinquinAndy&repo=plugin-auto-alt-caption-title-on-images-ai-enhanced&theme=transparent&show_icons=false" alt="forvoyez-obsidian-plugin"></a>
+    <a href="https://andy-cinquin.com/portefolio/forvoyez-strapi-plugin"><img width="278" src="https://my-github-readme-stats-eosin.vercel.app/api/pin/?username=CinquinAndy&repo=notes-to-strapi-export-article-ai&theme=transparent&show_icons=false" alt="forvoyez-strapi-plugin"></a>
     <a href="https://andy-cinquin.com/portefolio/forvoyez-wordpress-plugin"><img width="278" src="https://my-github-readme-stats-eosin.vercel.app/api/pin/?username=For-Hives&repo=forvoyez-wordpress-plugin&theme=transparent&show_icons=false" alt="forvoyez-wordpress-plugin"></a>
 </p>
 
@@ -111,7 +111,7 @@ Want to create something together? Let's chat! 🚀
 
 #### _Website_
 <p align="center">
-    <a href="https://github.com/CinquinAndy/esperancem"><img width="278" src="https://my-github-readme-stats-eosin.vercel.app/api/pin/?username=For-Hives&repo=esperancem&theme=transparent&show_icons=false" alt="esperance-m"></a>
+    <a href="https://github.com/CinquinAndy/esperancem"><img width="278" src="https://my-github-readme-stats-eosin.vercel.app/api/pin/?username=CinquinAndy&repo=esperancem&theme=transparent&show_icons=false" alt="esperance-m"></a>
     <a href="https://github.com/For-Hives/la-taverne-des-aventuriers"><img width="278" src="https://my-github-readme-stats-eosin.vercel.app/api/pin/?username=For-Hives&repo=la-taverne-des-aventuriers&theme=transparent&show_icons=false" alt="la-taverne-des-aventuriers"></a>
     <a href="https://github.com/CinquinAndy/mariage-mae"><img width="278" src="https://my-github-readme-stats-eosin.vercel.app/api/pin/?username=CinquinAndy&repo=mariage-mae&theme=transparent&show_icons=false" alt="mariage-mae"></a>
     <a href="https://github.com/CinquinAndy/MaevaSiteV2"><img width="278" src="https://my-github-readme-stats-eosin.vercel.app/api/pin/?username=CinquinAndy&repo=MaevaSiteV2&theme=transparent&show_icons=false" alt="MaevaSiteV2"></a>
