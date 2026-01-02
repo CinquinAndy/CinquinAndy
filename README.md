@@ -1,6 +1,6 @@
-# Hi ! I'm <a href="https://andy-cinquin.fr/">Andy</a> !
+# Hi ! I'm <a href="https://andy-cinquin.fr/">Andy</a>
 
-<img alt="bg" src="https://r2-andycinquin.andy-cinquin.fr/Capture_d_ecran_2024_02_09_094947_df22bea553.png"> 
+<img alt="bg" src="https://r2-andycinquin.andy-cinquin.fr/Capture_d_ecran_2024_02_09_094947_df22bea553.png">
 
 ## 💻 About me
 
@@ -22,11 +22,10 @@
     <img alt="My Facebook'" title="My Facebook'" src="https://img.shields.io/badge/-Facebook-0866FF?style=flat-square&logo=Facebook&logoColor=white" height="30"/></a>
 </p>
 <br/>
-<img alt="Holo cards" src="https://andy-cinquin.fr/assets/card_holo/holo.webp" width="300" align="right"> 
-
+<img alt="Holo cards" src="https://andy-cinquin.fr/assets/card_holo/holo.webp" width="300" align="right">
 
 Entrepreneur, Freelance Developer, I've been creating cool stuff on the web for over 7 years.
-Co-founder of ForVoyez, ForHives, ForMenu, My-Makeup & Artriste.
+Co-founder of Beswib, ForVoyez, ForHives, ForMenu, My-Makeup & Artriste.
 
 Check our Organization : [ForHives](https://github.com/For-Hives)
 
@@ -55,76 +54,10 @@ Want to create something together? Let's chat! 🚀
 
 ## ⭐ Main repos (actually in prod)
 
-- Actually CTO at @Neova-protocol: https://neova.io
-- Actually Co-Founder at @Beswib: https://beswib.com
+- Actually Co-Founder at @Beswib: <https://beswib.com>
+- Actually Co-Founder at @ForVoyez: <https://forvoyez.com>
 
 <br/>
-
-### ✨ NPM packages
-<p align="center">
-    <a href="https://github.com/CinquinAndy/export-repository-to-prompt-for-llm"><img width="278" src="https://my-github-readme-stats-eosin.vercel.app/api/pin/?username=CinquinAndy&repo=export-repository-to-prompt-for-llm&theme=transparent&show_icons=false" alt="export-repository-to-prompt-for-llm"></a>
-    <a href="https://github.com/For-Hives/forhives-base"><img width="278" src="https://my-github-readme-stats-eosin.vercel.app/api/pin/?username=For-Hives&repo=forhives-base&theme=transparent&show_icons=false" alt="forhives-base"></a>
-    <a href="https://github.com/CinquinAndy/notes-to-strapi-export-article-ai"><img width="278" src="https://my-github-readme-stats-eosin.vercel.app/api/pin/?username=CinquinAndy&repo=notes-to-strapi-export-article-ai&theme=transparent&show_icons=false" alt="notes-to-strapi-export-article-ai"></a>
-    <a href="https://github.com/CinquinAndy/plugin-auto-alt-caption-title-on-images-ai-enhanced"><img width="278" src="https://my-github-readme-stats-eosin.vercel.app/api/pin/?username=CinquinAndy&repo=plugin-auto-alt-caption-title-on-images-ai-enhanced&theme=transparent&show_icons=false" alt="plugin-auto-alt-caption-title-on-images-ai-enhanced"></a>
-</p>
-
-### ✨ ForHives
-#### _ForVoyez_
-<p align="center">
-    <a href="https://github.com/For-Hives/Forvoyez"><img width="278" src="https://my-github-readme-stats-eosin.vercel.app/api/pin/?username=For-Hives&repo=forvoyez&theme=transparent&show_icons=false" alt="forvoyez"></a>
-    <a href="https://github.com/For-Hives/Forvoyez-doc"><img width="278" src="https://my-github-readme-stats-eosin.vercel.app/api/pin/?username=For-Hives&repo=forvoyez-doc&theme=transparent&show_icons=false" alt="forvoyez-doc"></a>
-</p> 
-
-#### _ForVoyez Plugins_
-<p align="center">
-    <a href="https://andy-cinquin.com/portefolio/forvoyez-obsidian-plugin"><img width="278" src="https://my-github-readme-stats-eosin.vercel.app/api/pin/?username=CinquinAndy&repo=plugin-auto-alt-caption-title-on-images-ai-enhanced&theme=transparent&show_icons=false" alt="forvoyez-obsidian-plugin"></a>
-    <a href="https://andy-cinquin.com/portefolio/forvoyez-strapi-plugin"><img width="278" src="https://my-github-readme-stats-eosin.vercel.app/api/pin/?username=CinquinAndy&repo=notes-to-strapi-export-article-ai&theme=transparent&show_icons=false" alt="forvoyez-strapi-plugin"></a>
-    <a href="https://andy-cinquin.com/portefolio/forvoyez-wordpress-plugin"><img width="278" src="https://my-github-readme-stats-eosin.vercel.app/api/pin/?username=For-Hives&repo=forvoyez-wordpress-plugin&theme=transparent&show_icons=false" alt="forvoyez-wordpress-plugin"></a>
-</p>
-
-#### _ForMenu_
-<p align="center">
-    <a href="https://github.com/For-Hives/formenu-front"><img width="278" src="https://my-github-readme-stats-eosin.vercel.app/api/pin/?username=For-Hives&repo=formenu-front&theme=transparent&show_icons=false" alt="formenu-front"></a>
-    <a href="https://github.com/For-Hives/formenu"><img width="278" src="https://my-github-readme-stats-eosin.vercel.app/api/pin/?username=For-Hives&repo=formenu&theme=transparent&show_icons=false" alt="formenu"></a>
-    <a href="https://github.com/For-Hives/admin-formenu"><img width="278" src="https://my-github-readme-stats-eosin.vercel.app/api/pin/?username=For-Hives&repo=admin-formenu&theme=transparent&show_icons=false" alt="admin-formenu"></a>
-    <a href="https://github.com/For-Hives/api-formenu"><img width="278" src="https://my-github-readme-stats-eosin.vercel.app/api/pin/?username=For-Hives&repo=api-formenu&theme=transparent&show_icons=false" alt="api-formenu"></a>
-</p>
-
-#### _My-Makeup_
-<p align="center">
-<a href="https://github.com/For-Hives/my-makeup"><img width="278" src="https://my-github-readme-stats-eosin.vercel.app/api/pin/?username=For-Hives&repo=my-makeup&theme=transparent&show_icons=false" alt="my-makeup"></a>
-    <a href="https://github.com/For-Hives/api-my-makeup"><img width="278" src="https://my-github-readme-stats-eosin.vercel.app/api/pin/?username=For-Hives&repo=api-my-makeup&theme=transparent&show_icons=false" alt="api-my-makeup"></a>
-</p>
-
-#### _Others_
-<p align="center">
-    <a href="https://github.com/For-Hives/artriste-website"><img width="278" src="https://my-github-readme-stats-eosin.vercel.app/api/pin/?username=For-Hives&repo=artriste-website&theme=transparent&show_icons=false" alt="artriste-website"></a>
-    <a href="https://github.com/For-Hives/Obsidian-Wiki-ForHives"><img width="278" src="https://my-github-readme-stats-eosin.vercel.app/api/pin/?username=For-Hives&repo=Obsidian-Wiki-ForHives&theme=transparent&show_icons=false" alt="Obsidian-Wiki-ForHives"></a>
-</p>   
-
-### ✨ Personal
-#### _Portefolio_
-<p align="center">
-    <a href="https://github.com/CinquinAndy/PortefolioV6"><img width="278" src="https://my-github-readme-stats-eosin.vercel.app/api/pin/?username=CinquinAndy&repo=PortefolioV6&theme=transparent&show_icons=false" alt="PortefolioV6"></a>
-    <a href="https://github.com/CinquinAndy/api-PortefolioV6"><img width="278" src="https://my-github-readme-stats-eosin.vercel.app/api/pin/?username=CinquinAndy&repo=api-PortefolioV6&theme=transparent&show_icons=false" alt="api-PortefolioV6"></a>
-</p>
-
-#### _Website_
-<p align="center">
-    <a href="https://github.com/CinquinAndy/esperancem"><img width="278" src="https://my-github-readme-stats-eosin.vercel.app/api/pin/?username=CinquinAndy&repo=esperancem&theme=transparent&show_icons=false" alt="esperance-m"></a>
-    <a href="https://github.com/For-Hives/la-taverne-des-aventuriers"><img width="278" src="https://my-github-readme-stats-eosin.vercel.app/api/pin/?username=For-Hives&repo=la-taverne-des-aventuriers&theme=transparent&show_icons=false" alt="la-taverne-des-aventuriers"></a>
-    <a href="https://github.com/CinquinAndy/mariage-mae"><img width="278" src="https://my-github-readme-stats-eosin.vercel.app/api/pin/?username=CinquinAndy&repo=mariage-mae&theme=transparent&show_icons=false" alt="mariage-mae"></a>
-    <a href="https://github.com/CinquinAndy/MaevaSiteV2"><img width="278" src="https://my-github-readme-stats-eosin.vercel.app/api/pin/?username=CinquinAndy&repo=MaevaSiteV2&theme=transparent&show_icons=false" alt="MaevaSiteV2"></a>
-    <a href="https://github.com/CinquinAndy/Website-SecondBrain"><img width="278" src="https://my-github-readme-stats-eosin.vercel.app/api/pin/?username=CinquinAndy&repo=Website-SecondBrain&theme=transparent&show_icons=false" alt="Website-SecondBrain"></a>
-    <a href="https://github.com/CinquinAndy/LesYDRangeesV2"><img width="278" src="https://my-github-readme-stats-eosin.vercel.app/api/pin/?username=CinquinAndy&repo=LesYDRangeesV2&theme=transparent&show_icons=false" alt="LesYDRangeesV2"></a>
-    <a href="https://github.com/CinquinAndy/sitePortefolioJulieSommaro"><img width="278" src="https://my-github-readme-stats-eosin.vercel.app/api/pin/?username=CinquinAndy&repo=sitePortefolioJulieSommaro&theme=transparent&show_icons=false" alt="sitePortefolioJulieSommaro"></a>
-    <a href="https://github.com/CinquinAndy/IsabelleCinquin"><img width="278" src="https://my-github-readme-stats-eosin.vercel.app/api/pin/?username=CinquinAndy&repo=IsabelleCinquin&theme=transparent&show_icons=false" alt="IsabelleCinquin"></a>
-    <a href="https://github.com/CinquinAndy/color_palette_generator"><img width="278" src="https://my-github-readme-stats-eosin.vercel.app/api/pin/?username=CinquinAndy&repo=color_palette_generator&theme=transparent&show_icons=false" alt="color_palette_generator"></a>
-    <a href="https://github.com/CinquinAndy/Infotel-Safari-Metiers"><img width="278" src="https://my-github-readme-stats-eosin.vercel.app/api/pin/?username=CinquinAndy&repo=Infotel-Safari-Metiers&theme=transparent&show_icons=false" alt="Infotel-Safari-Metiers"></a>
-    <a href="https://github.com/CinquinAndy/Courses-group-generator"><img width="278" src="https://my-github-readme-stats-eosin.vercel.app/api/pin/?username=CinquinAndy&repo=Courses-group-generator&theme=transparent&show_icons=false" alt="Courses-group-generator"></a>
-</p>
-
-- *Cosi-company*: https://andy-cinquin.com/portefolio/cosi-company
 
 ### ✨ Wildlife Projects
 
@@ -136,14 +69,98 @@ Want to create something together? Let's chat! 🚀
 - Article on my portfolio: [AWS Marketing Studio](https://andy-cinquin.com/portefolio/wildlife-aws-marketing-studio)
 - Article on my portfolio: [AWS F1 Realtime Racetrack](https://andy-cinquin.com/portefolio/wildlife-aws-realtime-racetrack-f1)
 
+### ✨ 21st
 
-<details> 
+- Multiple shared component in opensource library: <https://21st.dev/community/cinquinandy>
+
+### ✨ ForHives
+
+#### _Beswib_
+
+<p align="center">
+    <a href="https://github.com/For-Hives/beswib"><img width="278" src="https://my-github-readme-stats-eosin.vercel.app/api/pin/?username=For-Hives&repo=beswib&theme=transparent&show_icons=false" alt="beswib"></a>
+</p>
+
+#### _ForVoyez_
+
+<p align="center">
+    <a href="https://github.com/For-Hives/Forvoyez"><img width="278" src="https://my-github-readme-stats-eosin.vercel.app/api/pin/?username=For-Hives&repo=forvoyez&theme=transparent&show_icons=false" alt="forvoyez"></a>
+    <a href="https://github.com/For-Hives/Forvoyez-doc"><img width="278" src="https://my-github-readme-stats-eosin.vercel.app/api/pin/?username=For-Hives&repo=forvoyez-doc&theme=transparent&show_icons=false" alt="forvoyez-doc"></a>
+</p>
+
+#### _ForVoyez Plugins_
+
+<p align="center">
+    <a href="https://andy-cinquin.com/portefolio/forvoyez-obsidian-plugin"><img width="278" src="https://my-github-readme-stats-eosin.vercel.app/api/pin/?username=CinquinAndy&repo=plugin-auto-alt-caption-title-on-images-ai-enhanced&theme=transparent&show_icons=false" alt="forvoyez-obsidian-plugin"></a>
+    <a href="https://andy-cinquin.com/portefolio/forvoyez-strapi-plugin"><img width="278" src="https://my-github-readme-stats-eosin.vercel.app/api/pin/?username=CinquinAndy&repo=notes-to-strapi-export-article-ai&theme=transparent&show_icons=false" alt="forvoyez-strapi-plugin"></a>
+    <a href="https://andy-cinquin.com/portefolio/forvoyez-wordpress-plugin"><img width="278" src="https://my-github-readme-stats-eosin.vercel.app/api/pin/?username=For-Hives&repo=forvoyez-wordpress-plugin&theme=transparent&show_icons=false" alt="forvoyez-wordpress-plugin"></a>
+</p>
+
+#### _ForMenu_
+
+<p align="center">
+    <a href="https://github.com/For-Hives/formenu-front"><img width="278" src="https://my-github-readme-stats-eosin.vercel.app/api/pin/?username=For-Hives&repo=formenu-front&theme=transparent&show_icons=false" alt="formenu-front"></a>
+    <a href="https://github.com/For-Hives/formenu"><img width="278" src="https://my-github-readme-stats-eosin.vercel.app/api/pin/?username=For-Hives&repo=formenu&theme=transparent&show_icons=false" alt="formenu"></a>
+    <a href="https://github.com/For-Hives/admin-formenu"><img width="278" src="https://my-github-readme-stats-eosin.vercel.app/api/pin/?username=For-Hives&repo=admin-formenu&theme=transparent&show_icons=false" alt="admin-formenu"></a>
+    <a href="https://github.com/For-Hives/api-formenu"><img width="278" src="https://my-github-readme-stats-eosin.vercel.app/api/pin/?username=For-Hives&repo=api-formenu&theme=transparent&show_icons=false" alt="api-formenu"></a>
+</p>
+
+#### _My-Makeup_
+
+<p align="center">
+<a href="https://github.com/For-Hives/my-makeup"><img width="278" src="https://my-github-readme-stats-eosin.vercel.app/api/pin/?username=For-Hives&repo=my-makeup&theme=transparent&show_icons=false" alt="my-makeup"></a>
+    <a href="https://github.com/For-Hives/api-my-makeup"><img width="278" src="https://my-github-readme-stats-eosin.vercel.app/api/pin/?username=For-Hives&repo=api-my-makeup&theme=transparent&show_icons=false" alt="api-my-makeup"></a>
+</p>
+
+#### _Others_
+
+<p align="center">
+    <a href="https://github.com/For-Hives/artriste-website"><img width="278" src="https://my-github-readme-stats-eosin.vercel.app/api/pin/?username=For-Hives&repo=artriste-website&theme=transparent&show_icons=false" alt="artriste-website"></a>
+    <a href="https://github.com/For-Hives/Obsidian-Wiki-ForHives"><img width="278" src="https://my-github-readme-stats-eosin.vercel.app/api/pin/?username=For-Hives&repo=Obsidian-Wiki-ForHives&theme=transparent&show_icons=false" alt="Obsidian-Wiki-ForHives"></a>
+</p>
+
+### ✨ Personal
+
+#### _Portefolio_
+
+<p align="center">
+    <a href="https://github.com/CinquinAndy/PortefolioV6"><img width="278" src="https://my-github-readme-stats-eosin.vercel.app/api/pin/?username=CinquinAndy&repo=PortefolioV6&theme=transparent&show_icons=false" alt="PortefolioV6"></a>
+    <a href="https://github.com/CinquinAndy/api-PortefolioV6"><img width="278" src="https://my-github-readme-stats-eosin.vercel.app/api/pin/?username=CinquinAndy&repo=api-PortefolioV6&theme=transparent&show_icons=false" alt="api-PortefolioV6"></a>
+</p>
+
+#### _Website_
+
+<p align="center">
+    <a href="https://github.com/CinquinAndy/nature-paysage-laheux"><img width="278" src="https://my-github-readme-stats-eosin.vercel.app/api/pin/?username=CinquinAndy&repo=nature-paysage-laheux&theme=transparent&show_icons=false" alt="nature-paysage-laheux"></a>
+    <a href="https://github.com/CinquinAndy/esperancem"><img width="278" src="https://my-github-readme-stats-eosin.vercel.app/api/pin/?username=CinquinAndy&repo=esperancem&theme=transparent&show_icons=false" alt="esperance-m"></a>
+    <a href="https://github.com/For-Hives/la-taverne-des-aventuriers"><img width="278" src="https://my-github-readme-stats-eosin.vercel.app/api/pin/?username=For-Hives&repo=la-taverne-des-aventuriers&theme=transparent&show_icons=false" alt="la-taverne-des-aventuriers"></a>
+    <a href="https://github.com/CinquinAndy/mariage-mae"><img width="278" src="https://my-github-readme-stats-eosin.vercel.app/api/pin/?username=CinquinAndy&repo=mariage-mae&theme=transparent&show_icons=false" alt="mariage-mae"></a>
+    <a href="https://github.com/CinquinAndy/MaevaSiteV2"><img width="278" src="https://my-github-readme-stats-eosin.vercel.app/api/pin/?username=CinquinAndy&repo=MaevaSiteV2&theme=transparent&show_icons=false" alt="MaevaSiteV2"></a>
+    <a href="https://github.com/CinquinAndy/Website-SecondBrain"><img width="278" src="https://my-github-readme-stats-eosin.vercel.app/api/pin/?username=CinquinAndy&repo=Website-SecondBrain&theme=transparent&show_icons=false" alt="Website-SecondBrain"></a>
+    <a href="https://github.com/CinquinAndy/LesYDRangeesV2"><img width="278" src="https://my-github-readme-stats-eosin.vercel.app/api/pin/?username=CinquinAndy&repo=LesYDRangeesV2&theme=transparent&show_icons=false" alt="LesYDRangeesV2"></a>
+    <a href="https://github.com/CinquinAndy/sitePortefolioJulieSommaro"><img width="278" src="https://my-github-readme-stats-eosin.vercel.app/api/pin/?username=CinquinAndy&repo=sitePortefolioJulieSommaro&theme=transparent&show_icons=false" alt="sitePortefolioJulieSommaro"></a>
+    <a href="https://github.com/CinquinAndy/IsabelleCinquin"><img width="278" src="https://my-github-readme-stats-eosin.vercel.app/api/pin/?username=CinquinAndy&repo=IsabelleCinquin&theme=transparent&show_icons=false" alt="IsabelleCinquin"></a>
+    <a href="https://github.com/CinquinAndy/color_palette_generator"><img width="278" src="https://my-github-readme-stats-eosin.vercel.app/api/pin/?username=CinquinAndy&repo=color_palette_generator&theme=transparent&show_icons=false" alt="color_palette_generator"></a>
+    <a href="https://github.com/CinquinAndy/Courses-group-generator"><img width="278" src="https://my-github-readme-stats-eosin.vercel.app/api/pin/?username=CinquinAndy&repo=Courses-group-generator&theme=transparent&show_icons=false" alt="Courses-group-generator"></a>
+    <a href="https://github.com/CinquinAndy/next-aram-buff-debuff"><img width="278" src="https://my-github-readme-stats-eosin.vercel.app/api/pin/?username=CinquinAndy&repo=next-aram-buff-debuff&theme=transparent&show_icons=false" alt="next-aram-buff-debuff"></a>
+</p>
+
+### ✨ NPM packages
+
+<p align="center">
+    <a href="https://github.com/CinquinAndy/export-repository-to-prompt-for-llm"><img width="278" src="https://my-github-readme-stats-eosin.vercel.app/api/pin/?username=CinquinAndy&repo=export-repository-to-prompt-for-llm&theme=transparent&show_icons=false" alt="export-repository-to-prompt-for-llm"></a>
+    <a href="https://github.com/For-Hives/forhives-base"><img width="278" src="https://my-github-readme-stats-eosin.vercel.app/api/pin/?username=For-Hives&repo=forhives-base&theme=transparent&show_icons=false" alt="forhives-base"></a>
+    <a href="https://github.com/CinquinAndy/notes-to-strapi-export-article-ai"><img width="278" src="https://my-github-readme-stats-eosin.vercel.app/api/pin/?username=CinquinAndy&repo=notes-to-strapi-export-article-ai&theme=transparent&show_icons=false" alt="notes-to-strapi-export-article-ai"></a>
+    <a href="https://github.com/CinquinAndy/plugin-auto-alt-caption-title-on-images-ai-enhanced"><img width="278" src="https://my-github-readme-stats-eosin.vercel.app/api/pin/?username=CinquinAndy&repo=plugin-auto-alt-caption-title-on-images-ai-enhanced&theme=transparent&show_icons=false" alt="plugin-auto-alt-caption-title-on-images-ai-enhanced"></a>
+</p>
+
+- _Cosi-company_: <https://andy-cinquin.com/portefolio/cosi-company>
+
+<details>
 <summary><h2>📈 My Wakatime Stats </h2></summary>
 <br/>
-    
     <p align="center">
      <img alt="CinquinAndy's Wakatime" src="https://my-github-readme-stats-eosin.vercel.app/api/wakatime?username=@andycinquin&theme=transparent&layout=compact"/>
     </p>
-    
     <br/>
 </details>
